@@ -1,3 +1,2 @@
 # helong
-my first repository
-my mongodb can't use
+日常积累
