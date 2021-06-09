@@ -1,0 +1,4595 @@
+[
+  {
+    "C": "i_title",
+    "T": "all",
+    "M": "MEN",
+    "U": "template/options/options.html",
+    "L": "all",
+    "H": "QaTools的工具选项",
+    "K": "yongchao.he",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 84
+  },
+  {
+    "C": "c_extensions",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://extensions/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 40
+  },
+  {
+    "C": "qr",
+    "T": "utils",
+    "M": "MEN",
+    "U": "qr",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 38
+  },
+  {
+    "C": "su",
+    "T": "utils",
+    "M": "MEN",
+    "U": "su",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 34
+  },
+  {
+    "C": "c_history",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://history/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 32
+  },
+  {
+    "C": "c_flags",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://flags/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 27
+  },
+  {
+    "C": "c_memory",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://memory-redirect/",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 27
+  },
+  {
+    "C": "c_settings",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://settings/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 26
+  },
+  {
+    "C": "c_downloads",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://downloads/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 26
+  },
+  {
+    "C": "c_bookmarks",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://bookmarks/#1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 26
+  },
+  {
+    "C": "c_plugins",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://plugins/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 26
+  },
+  {
+    "C": "c_clearBD",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://settings/clearBrowserData",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 25
+  },
+  {
+    "C": "c_version",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://version/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 24
+  },
+  {
+    "C": "c_appcache",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://appcache-internals",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 18
+  },
+  {
+    "C": "gmail_page",
+    "T": "sns",
+    "M": "MEN",
+    "U": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&source=mailto&body=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "su_alert",
+    "T": "utils",
+    "M": "MEN",
+    "U": "su_alert",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "Google Translate",
+    "T": "all",
+    "M": "MEN",
+    "U": "http://translate.google.com/translate?u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 15
+  },
+  {
+    "C": "tab_close",
+    "T": "utils",
+    "M": "MEN",
+    "U": "tab_close",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 15
+  },
+  {
+    "C": "qzone",
+    "T": "sns",
+    "M": "MEN",
+    "U": "http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=%s&title=%l",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "weibo",
+    "T": "sns",
+    "M": "MEN",
+    "U": "http://service.weibo.com/share/share.php?appkey=1144650722&url=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "facebook_menu",
+    "T": "sns",
+    "M": "MEN",
+    "U": "https://www.facebook.com/dialog/feed?app_id=365325133587367&link=%s&redirect_uri=https%3A//www.facebook.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "c_credits",
+    "T": "chrome",
+    "M": "MEN",
+    "U": "chrome://credits/",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "flvcd",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.flvcd.com/parse.php?format=&kw=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "Яндекс.Перевод",
+    "T": "fy",
+    "M": "MEN",
+    "U": "http://translate.yandex.ru/",
+    "L": "ru",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "W3C css validator",
+    "T": "ui",
+    "M": "MEN",
+    "U": "http://jigsaw.w3.org/css-validator/validator?uri=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "W3C html Validation",
+    "T": "ui",
+    "M": "MEN",
+    "U": "http://validator.w3.org/check?uri=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Facbook",
+    "T": "sns",
+    "M": "MEN",
+    "U": "https://www.facebook.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "twitter",
+    "T": "sns",
+    "M": "MEN",
+    "U": "https://twitter.com",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "百度",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.baidu.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 7
+  },
+  {
+    "C": "开发者中心",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://chrome.google.com/webstore/developer/dashboard",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 3
+  },
+  {
+    "C": "有道词典",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://dict.youdao.com/?keyfrom=fanyi.top",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 3
+  },
+  {
+    "C": "网上应用店",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://chrome.google.com/webstore?hl=zh-CN",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "备案查询",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://tool.chinaz.com/beian.aspx?s=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "Bing Translate",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.microsofttranslator.com/bv.aspx?from=&to=cn&a=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "必应搜索",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://cn.bing.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "新浪短链",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.waqiang.com/index.php/url/shorten",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "you tube",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.youtube.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "zhibo8",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.zhibo8.cc/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "--- EINSTELLUNGEN ----------",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.google.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "搜索1",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.googlestable.com/search?hl=zh-CN&lr=lang_zh-CN&newwindow=1&q=%us",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "站长网查询",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://seo.chinaz.com/?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "谷歌",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://google.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "自己IP",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.ip138.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "Google",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "网站词库",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.ciku5.com/s?wd=%s&citype=1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "天猫",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://list.mall.taobao.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Dictionary",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://dictionary.reference.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "露天拍賣",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.ruten.com.tw/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Chrome网上应用店",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://chrome.google.com/webstore/category/extensions?hl=zh-CN",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "windows store",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://windows.microsoft.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "阿里妈妈",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://pub.alimama.com/#!/promo/self/items?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "优酷",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.youku.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "美国亚马逊",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.amazon.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "google 翻譯",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://translate.google.com.tw/#en|zh-TW|",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "淘宝",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.taobao.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Поиск по сайту",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.google.com/search?q=site:%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "QQ邮箱",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://mail.qq.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "torrentbutler",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://torrentbutler.eu",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "音樂",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://grooveshark.com/#!/search?q=%E8%B8%8F%E7%A0%B4%E9%90%B5%E9%9E%8B",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.google.com.hk/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "AIAA",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://arc.aiaa.org/action/doSearch?searchText",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "thepiratebay.se",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://thepiratebay.se",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "网站备案",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://tool.chinaz.com/beian.aspx?s=",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "hdkinoteatr",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.hdkinoteatr.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "--- BOOKMARKS -------------",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.de/bookmarks",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "ZOL产品报价",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://detail.zol.com.cn/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "google drive",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://drive.google.com/?usp=chrome_app#my-drive",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google翻译",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://translate.google.com/?hl=en&tab=wT",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "voa",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.51voa.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "IP地址",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://web.gongjupu.com/ip?q=",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "淘宝",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://s.taobao.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.co.in/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "新浪微博",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://t.cn",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "百度网盘",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://pan.baidu.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Bookmarks (Read Later)",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.de/bookmarks/lookup?q=label:\"%23aktuell%7C%2BRead+later\"&hl=de",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Oxford Learners Dictionary",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://oald8.oxfordlearnersdictionaries.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "百度百科",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://baike.baidu.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Vikram Sharma",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://goo.gl/dIajI0",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "百度一下",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.baidu.com/index.php?tn=baiduhome_pg",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "鲜果",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://xianguo.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "淘宝",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.taobao.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google Images",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.co.in/imghp?hl=en&tab=wi&ei=_cy5UqDfCYuYrgf1toG4Cg&ved=0CAQQqi4oAg",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "邮箱",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://mail.google.com/mail/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "------------------------",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.gmail.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "bilibili",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.ibilibili.tv/video/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Facebook 分享",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.facebook.com/sharer/sharer.php?u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "google ncr",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "https://www.google.com/ncr",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Wikipedia",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://en.wikipedia.org/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "一淘网",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://s.etao.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "百度翻译",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://fanyi.baidu.com/transpage?query=%s&source=url&ie=utf8&from=en&to=zh&render=1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Vik Smith",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://goo.gl/alA5KU",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "网易邮箱",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://mail.163.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "网盘",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://pan.baidu.com/disk/home",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "人人",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://widget.renren.com/dialog/share?resourceUrl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "--- CHROME ------------------",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.google.de",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "好知",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.howzhi.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "一半",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.listenonrepeat.com/watch/?v=HyHU7DzADTI",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "NYT中文网",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://cn.nytimes.com/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "hd720",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.hd720.net/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "BBC中文网",
+    "T": "Custom",
+    "M": "MEN",
+    "U": "http://www.bbc.com/zhongwen/trad",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "zdic",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://www.zdic.net/sousuo?q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8811
+  },
+  {
+    "C": "google_site1",
+    "T": "all",
+    "M": "TXT",
+    "U": "https://www.google.com/search?q=site%3A%u+%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 761
+  },
+  {
+    "C": "youdao_dict",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://fanyi.youdao.com/translate?i=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 554
+  },
+  {
+    "C": "douban",
+    "T": "sns",
+    "M": "TXT",
+    "U": "http://www.douban.com/search?cat=&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 419
+  },
+  {
+    "C": "知乎",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://www.zhihu.com/search?q=%s&type=question",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 395
+  },
+  {
+    "C": "百度知道",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://zhidao.baidu.com/search?word=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 339
+  },
+  {
+    "C": "199",
+    "T": "sns",
+    "M": "TXT",
+    "U": "http://s.weibo.com/weibo/%s?topnav=1&wvr=5&b=1",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 201
+  },
+  {
+    "C": "tieba",
+    "T": "sns",
+    "M": "TXT",
+    "U": "http://tieba.baidu.com/f?kw=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 200
+  },
+  {
+    "C": "dict",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://www.dict.cn/%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 141
+  },
+  {
+    "C": "317",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://fanyi.baidu.com/translate#auto/zh/%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 110
+  },
+  {
+    "C": "missyuan",
+    "T": "ui",
+    "M": "TXT",
+    "U": "http://so.missyuan.com/plus/search.php?searchtype=titlekeyword&keyword=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 88
+  },
+  {
+    "C": "baidu",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.baidu.com/s?wd=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 69
+  },
+  {
+    "C": "translate",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://translate.google.com/?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 64
+  },
+  {
+    "C": "google",
+    "T": "all",
+    "M": "TXT",
+    "U": "https://www.google.com/#newwindow=1&q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 45
+  },
+  {
+    "C": "youtube",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.youtube.com/results?search_query=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 36
+  },
+  {
+    "C": "bing",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.bing.com/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 34
+  },
+  {
+    "C": "google_img",
+    "T": "pic",
+    "M": "TXT",
+    "U": "https://www.google.com/search?q=%s&tbm=isch",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 32
+  },
+  {
+    "C": "qr_txt",
+    "T": "utils",
+    "M": "TXT",
+    "U": "qr_txt",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 32
+  },
+  {
+    "C": "en_wikipedia",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://en.wikipedia.org/wiki/Special:Search?search=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 31
+  },
+  {
+    "C": "Baidu fanyi",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://fanyi.baidu.com/?#en/zh/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 30
+  },
+  {
+    "C": "wikipedia",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://zh.wikipedia.org/wiki/Special:Search?search=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 25
+  },
+  {
+    "C": "baidu_site",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.baidu.com/s?wd=site%3A%u+%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 24
+  },
+  {
+    "C": "淘宝",
+    "T": "Custom",
+    "M": "TXT",
+    "U": "http://s.taobao.com/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 23
+  },
+  {
+    "C": "百度网盘搜索",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://so.baiduyun.me/search.php?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=2&rsv_sug=0&rsv_sug1=2&rsv_sug4=166&inputT=702",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 23
+  },
+  {
+    "C": "duckduckgo",
+    "T": "all",
+    "M": "TXT",
+    "U": "https://duckduckgo.com/?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 22
+  },
+  {
+    "C": "scholar",
+    "T": "book",
+    "M": "TXT",
+    "U": "https://scholar.google.com/scholar?q=%s&hl=zh-CN",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 20
+  },
+  {
+    "C": "image_baidu",
+    "T": "pic",
+    "M": "TXT",
+    "U": "http://image.baidu.com/i?ie=utf-8&word=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 20
+  },
+  {
+    "C": "google_hk",
+    "T": "all",
+    "M": "TXT",
+    "U": "https://www.google.hk/search?hl=zh-CN&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 19
+  },
+  {
+    "C": "thepiratebay",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://thepiratebay.ee/s/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 19
+  },
+  {
+    "C": "kd",
+    "T": "utils",
+    "M": "TXT",
+    "U": "kd",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 19
+  },
+  {
+    "C": "facebook",
+    "T": "sns",
+    "M": "TXT",
+    "U": "http://www.facebook.com/search/results.php?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 18
+  },
+  {
+    "C": "Amazon_com",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://www.amazon.com/gp/s?keyword=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 18
+  },
+  {
+    "C": "thepiratebay",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://thepiratebay.sx/search/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "google_plus",
+    "T": "sns",
+    "M": "TXT",
+    "U": "https://plus.google.com/s/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "wenku",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://wenku.baidu.com/search?word=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "gmail_txt",
+    "T": "sns",
+    "M": "TXT",
+    "U": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&body=%s&source=mailto",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "Yahoo",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://search.yahoo.com/search?p=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "twitter",
+    "T": "sns",
+    "M": "TXT",
+    "U": "https://twitter.com/search?q=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 16
+  },
+  {
+    "C": "amazon",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://www.amazon.cn/search/search.asp?source=xuender-23&searchType=&searchWord=%s&Submit.x=8&Submit.y=4&Submit=Go",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 16
+  },
+  {
+    "C": "nds",
+    "T": "movie",
+    "M": "TXT",
+    "U": "https://www.google.com/cse?cx=partner-pub-2754614460323177:6285657766&ie=UTF-8&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 16
+  },
+  {
+    "C": "ditu",
+    "T": "utils",
+    "M": "TXT",
+    "U": "https://ditu.google.com/maps?hl=zh-cn&newwindow=1&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 16
+  },
+  {
+    "C": "百度百科",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://baike.baidu.com/searchword/?word=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 15
+  },
+  {
+    "C": "bt",
+    "T": "movie",
+    "M": "TXT",
+    "U": "https://www.google.com/cse?cx=partner-pub-2754614460323177:1956378441&ie=UTF-8&q=%s&gsc=bt%E6%90%9C%E7%B4%A2#gsc.tab=0&gsc.q=%s&gsc.ref=bt%E6%90%9C%E7%B4%A2",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "twitter_share",
+    "T": "sns",
+    "M": "TXT",
+    "U": "https://twitter.com/intent/tweet?text=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "google_tw",
+    "T": "all",
+    "M": "TXT",
+    "U": "https://www.google.tw/search?hl=zh-TW&q=%s",
+    "L": "zh_TW",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 13
+  },
+  {
+    "C": "amazon",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://www.amazon.cn/s/?field-keywords=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "tw_wikipedia",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://tw.wikipedia.org/wiki/Special:Search?search=%s",
+    "L": "zh_TW",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "yahoo_cn",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://one.cn.yahoo.com/s?p=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "ditu_bing",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://cn.bing.com/ditu/?q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "Amazon_com",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://www.amazon.com/gp/associates/link-types/searchbox.html?tag=ender0f-20&keyword=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "京东网",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://click.union.jd.com/JdClick/?unionId=12760139&to=http%3A%2F%2Fsearch.jd.com%2FSearch%3Fkeyword%3D%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 11
+  },
+  {
+    "C": "EDonkey",
+    "T": "movie",
+    "M": "TXT",
+    "U": "https://www.google.com/cse?cx=partner-pub-2754614460323177:1956378441&ie=UTF-8&q=%s&gsc=%E7%94%B5%E9%A9%B4%E6%90%9C%E7%B4%A2#gsc.tab=0&gsc.q=%s&gsc.ref=%E7%94%B5%E9%A9%B4%E6%90%9C%E7%B4%A2",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 11
+  },
+  {
+    "C": "bing_images",
+    "T": "Custom",
+    "M": "TXT",
+    "U": "http://www.bing.com/images/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 10
+  },
+  {
+    "C": "新浪微博",
+    "T": "sns",
+    "M": "TXT",
+    "U": "http://service.weibo.com/share/share.php?appkey=1144650722&title=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 10
+  },
+  {
+    "C": "谷歌学术",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://scholar.google.com.hk/scholar?hl=zh-CN&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "豆瓣电影",
+    "T": "Custom",
+    "M": "TXT",
+    "U": "http://movie.douban.com/subject_search?search_text=%s&cat=1002",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "Wiki",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&profile=default&search=%s&fulltext=Search",
+    "L": "ru",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "Price",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://price.ru/search/computer-hardware/notebook/offers/?query=%s&auto=1",
+    "L": "ru",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "kinopoisk.ru",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query=%s",
+    "L": "ru",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "网易云音乐",
+    "T": "mp3",
+    "M": "TXT",
+    "U": "http://music.163.com/#/m/search?s=%s&_page=search",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "allmovies",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.allmovie.com/search/all/%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "Google Definition",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.google.com/search?hl=en&q=define:%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "电影天堂",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://s.kujian.com/plus/search.php?kwtype=0&keyword=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 9
+  },
+  {
+    "C": "一淘",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://s.etao.com/search?q=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "厦大图书馆",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://210.34.4.28/opac/openlink.php?historyCount=1&strText=%s&doctype=ALL&strSearchType=title&match_flag=forward&displaypg=20&sort=CATA_DATE&orderby=desc&showmode=list&dept=ALL",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "纵横中文网",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://search.zongheng.com/search/all/%s/1.html",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "中通【派送范围】",
+    "T": "shop",
+    "M": "TXT",
+    "U": "http://www.zto.cn/SiteInfo/sitesearch.aspx?testselect=%g&listselect=%c5%c9%cb%cd%b7%b6%ce%a7",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "优酷网",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://so.youku.com/search_video/q_%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "迅雷搜索",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://hao123.xunlei.com/so/s.html?w=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "搜狗图片",
+    "T": "pic",
+    "M": "TXT",
+    "U": "http://pic.sogou.com/pics?query=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "有道图片",
+    "T": "pic",
+    "M": "TXT",
+    "U": "http://image.youdao.com/search?q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "素材艺库",
+    "T": "ui",
+    "M": "TXT",
+    "U": "http://so.ekoooo.com/so?ie=utf-8&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "沪江小D词典",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://dict.hjenglish.com/jp/jc/%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "音悦台",
+    "T": "mp3",
+    "M": "TXT",
+    "U": "http://www.yinyuetai.com/search/mv?keyword=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Findicons.com",
+    "T": "ui",
+    "M": "TXT",
+    "U": "http://findicons.com/search/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "搜狐视频",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://so.tv.sohu.com/mts?box=1&wd=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Bing Site Search",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.bing.com/search?q=site%3A%u+%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "ldoceonline",
+    "T": "fy",
+    "M": "TXT",
+    "U": "http://www.ldoceonline.com/search/?q=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "国家图书馆",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://opac.nlc.gov.cn/F/?request=%s&func=find-m&find_code=WRD&FIND_BASE=NLC01&FIND_BASE=NLC09",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Picasa",
+    "T": "pic",
+    "M": "TXT",
+    "U": "https://picasaweb.google.com/lh/view?q=%s&psc=G&filter=1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "风行网影视搜索",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.funshion.com/search/media/search?word=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "互动百科",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://www.hudong.com/wiki/%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "迅雷看看",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://search.kankan.com/search.php?keyword=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "奇虎360",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://so.360.cn/s?ie=utf-8&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "sootuu.com",
+    "T": "ui",
+    "M": "TXT",
+    "U": "http://so.sootuu.com/s.asp?ClassID=0&key=%g",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "爱问",
+    "T": "utils",
+    "M": "TXT",
+    "U": "http://ishare.iask.sina.com.cn/search.php?key=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Rotten Tomatoes",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.rottentomatoes.com/search/full_search.php?search=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "酷我音乐",
+    "T": "mp3",
+    "M": "TXT",
+    "U": "http://sou.kuwo.cn/ws/NSearch?key=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "Google Play",
+    "T": "utils",
+    "M": "TXT",
+    "U": "https://play.google.com/store/search?q=%s&c=apps",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "btdigg.org",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://btdigg.org/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "YB一起搜",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.goo9le.cn/search.php?keyword=%s&left=bing&right=yahoo",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "有道",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.youdao.com/search?q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "高清电影",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://imax.im/movies/search?ref=plugin-search&q=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "川大图书馆",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://202.115.54.13:8080/F/-/?func=find-b&find_code=WRD&request=%s&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WFM",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "人人影视",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://www.yyets.com/php/search/index?keyword=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "VeryCD",
+    "T": "movie",
+    "M": "TXT",
+    "U": "http://find.verycd.com/folders/%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "surfcanyon.com",
+    "T": "all",
+    "M": "TXT",
+    "U": "http://www.surfcanyon.com/search?q=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "天猫",
+    "T": "shop",
+    "M": "TXT",
+    "U": "https://list.tmall.com/search_product.htm?q=%g",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "ЛибРусек",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://lib.rus.ec/search?ask=%s",
+    "L": "ru",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "豆瓣书籍",
+    "T": "book",
+    "M": "TXT",
+    "U": "http://book.douban.com/subject_search?search_text=%s&cat=1001",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "搜狗搜图",
+    "T": "all",
+    "M": "PIC",
+    "U": "http://pic.sogou.com/ris?query=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 612
+  },
+  {
+    "C": "google_pic",
+    "T": "all",
+    "M": "PIC",
+    "U": "http://www.google.com/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 91
+  },
+  {
+    "C": "qr_decode",
+    "T": "utils",
+    "M": "PIC",
+    "U": "qr_decode",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 86
+  },
+  {
+    "C": "su_pic",
+    "T": "utils",
+    "M": "PIC",
+    "U": "su_pic",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 73
+  },
+  {
+    "C": "exif",
+    "T": "pic",
+    "M": "PIC",
+    "U": "http://regex.info/exif.cgi?dummy=on&imgurl=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 33
+  },
+  {
+    "C": "twitter_pic",
+    "T": "sns",
+    "M": "PIC",
+    "U": "https://twitter.com/intent/tweet?url=%s",
+    "L": "en",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 29
+  },
+  {
+    "C": "百度图片",
+    "T": "all",
+    "M": "PIC",
+    "U": "http://stu.baidu.com/i?rt=0&rn=10&ct=1&tn=baiduimage&objurl=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 27
+  },
+  {
+    "C": "qr_pic",
+    "T": "utils",
+    "M": "PIC",
+    "U": "qr_pic",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 22
+  },
+  {
+    "C": "gmail_pic",
+    "T": "sns",
+    "M": "PIC",
+    "U": "https://mail.google.com/mail/?view=cm&tf=1&source=mailto&body=%s&fs=1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 18
+  },
+  {
+    "C": "facebook_pic",
+    "T": "sns",
+    "M": "PIC",
+    "U": "https://www.facebook.com/dialog/feed?app_id=365325133587367&picture=%s&redirect_uri=https%3A//www.facebook.com",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "su_pic_alert",
+    "T": "utils",
+    "M": "PIC",
+    "U": "su_pic_alert",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 17
+  },
+  {
+    "C": "Google搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://www.google.com/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "weibo_pic",
+    "T": "sns",
+    "M": "PIC",
+    "U": "http://service.weibo.com/share/share.php?appkey=1144650722&pic=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "TinEye圖片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://www.tineye.com/search/?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 14
+  },
+  {
+    "C": "SauceNAO Search",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://saucenao.com/search.php?db=999&url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 12
+  },
+  {
+    "C": "IQDB Search",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://iqdb.org/?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 10
+  },
+  {
+    "C": "谷歌图片",
+    "T": "all",
+    "M": "PIC",
+    "U": "http://www.google.com.hk/imghp?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "百度图片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://image.baidu.com/n/pc_search?queryImageUrl=%s&fm=stuhome&uptype=urlsearch",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 4
+  },
+  {
+    "C": "百度搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://stu.baidu.com/i?objurl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 4
+  },
+  {
+    "C": "奇虎搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://image.so.com/i?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 3
+  },
+  {
+    "C": "百度搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://image.baidu.com/n/pc_search?queryImageUrl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 3
+  },
+  {
+    "C": "Google+ 分享图片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://plus.google.com/u/0/share?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "google日本",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://www.google.jp/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "TinEye",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://www.tineye.com/search?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "ggImage",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://www.google.com.tw/searchbyimage?image_url=%s&image_content=&filename=",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "谷歌搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://www.google.com/searchbyimage?newwindow=1&safe=off&hl=en&image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "ئادرىسىنى گۈدۈككە ھەمبەھىرلەش",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://guduk.com/index.php?app=home&amp;mod=Widget&amp;act=share&amp;1=1&amp;url=&amp;pic=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google圖片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://www.google.com.tw/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Yandex",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://yandex.ru/images/search?rpt=imageview&img_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "好搜搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://st.so.com/stu?imgurl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "google以图搜图",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://images.google.com.hk/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google图片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "https://www.google.com/searchbyimage?image_url=%s&image_content=&filename=",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google图片",
+    "T": "Custom",
+    "M": "PIC",
+    "U": "http://203.208.46.148/searchbyimage?image_url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "qr_lin",
+    "T": "utils",
+    "M": "LIN",
+    "U": "qr_lin",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 78
+  },
+  {
+    "C": "gmail_lin",
+    "T": "sns",
+    "M": "LIN",
+    "U": "https://mail.google.com/mail/?view=cm&fs=1&source=mailto&body=%s&tf=1",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 65
+  },
+  {
+    "C": "weibo_lin",
+    "T": "sns",
+    "M": "LIN",
+    "U": "http://service.weibo.com/share/share.php?url=%s&appkey=1144650722",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 54
+  },
+  {
+    "C": "google_site",
+    "T": "all",
+    "M": "LIN",
+    "U": "https://www.google.com/search?q=site%3A%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 25
+  },
+  {
+    "C": "su_lin",
+    "T": "utils",
+    "M": "LIN",
+    "U": "su_lin",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 24
+  },
+  {
+    "C": "google_link",
+    "T": "all",
+    "M": "LIN",
+    "U": "https://www.google.com/search?q=link%3A%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 23
+  },
+  {
+    "C": "bing_site",
+    "T": "all",
+    "M": "LIN",
+    "U": "http://www.bing.com/search?q=site%3A%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 22
+  },
+  {
+    "C": "facebook_lin",
+    "T": "sns",
+    "M": "LIN",
+    "U": "https://www.facebook.com/dialog/feed?app_id=365325133587367&redirect_uri=https%3A//www.facebook.com&link=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 22
+  },
+  {
+    "C": "su_lin_alert",
+    "T": "utils",
+    "M": "LIN",
+    "U": "su_lin_alert",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 19
+  },
+  {
+    "C": "解析链接视频",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.flvcd.com/parse.php?kw=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 10
+  },
+  {
+    "C": "Запостить на стен VK",
+    "T": "sns",
+    "M": "LIN",
+    "U": "http://vk.com/share.php?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "997m",
+    "T": "movie",
+    "M": "LIN",
+    "U": "http://www.997m.com/#!u=%s",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "迅雷云点播",
+    "T": "movie",
+    "M": "LIN",
+    "U": "http://vod.xunlei.com/iplay.html?uvs=_4_&url=%s&tryplay=1&from=contextMenus",
+    "L": "zh_CN",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 8
+  },
+  {
+    "C": "flvcd",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.flvcd.com/dvseek.php?format=&kw=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 6
+  },
+  {
+    "C": "迅雷",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://vod.xunlei.com/list.html?addurl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 5
+  },
+  {
+    "C": "Google Cache",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://webcache.googleusercontent.com/search?q=cache:%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 5
+  },
+  {
+    "C": "百度权重",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://seo.chinaz.com/?host=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 4
+  },
+  {
+    "C": "淘宝指数",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://shu.taobao.com/trendindex?query=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 4
+  },
+  {
+    "C": "阿里妈妈",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://u.alimama.com/union/spread/selfservice/merchandisePromotion.htm?cat=&mid=&searchType=3&q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 4
+  },
+  {
+    "C": "旋风离线下载",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://lixian.qq.com/main.html?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "淘宝",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://s.taobao.com/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "百度网站",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://www.baidu.com/s?wd=%s&rsv_spt=1&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=12&rsv_sug1=2",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 2
+  },
+  {
+    "C": "迅雷离线下载",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://lixian.vip.xunlei.com/?furl=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "PageSpeed Insights",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://developers.google.com/speed/pagespeed/insights/?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "比特云播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.bteye.com/#u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": ">-----链接-----<",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://1.1/%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.997m.com/?u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "Google文档查看",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://docs.google.com/viewer?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 1
+  },
+  {
+    "C": "电影离线",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://yun.dybeta.com/index.php#!u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "地址轉換(&Convert URL)",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.wudso.com/url/?u=%s&c=gb2312&m=get&h=http://www.wudso.com/url/&v=clip&w=a&p=1&a=href&img=src&id=935",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Download With Amule",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://ccys.no-ip.org/External/Scripts/DownloadWithAmule.py?ed2k=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "快乐云播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.happyfuns.com/happyvod/api.html?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "QQ邮箱",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://mail.qq.com/cgi-bin/frame_html?sid=ItAzKLPdMrhXDRVE&amp;amp;r=b51f1c61c96384c5a8f60e70a1459448",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "福利吧云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://fuliba.net/yun.php?u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google鏈接",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://www.google.com.tw/search?q=link%3A%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "520云播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://520it.pw/?C=#!u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "小二云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.x2yun.com/#!u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Keepvid",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://keepvid.com/?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "快乐云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.happyfuns.com/happyvod/?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "简书",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.jianshu.com/search?utf8=%E2%9C%93&q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "گۈدۈككە رەسىم يوللاش",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://guduk.com/index.php?app=home&amp;mod=Widget&amp;act=share&amp;1=1&amp;url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "看店宝-淘宝搜索",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://so.kandianbao.com/%s/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Savefrom",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://en.savefrom.net/#url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Google+ share",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://plus.google.com/share?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "火焰云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://rs.huoyan.tv/index.php#!u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "百度",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.baidu.com/s?ie=utf-8&wd=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "看店宝-店铺",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://dian.kandianbao.com/%s/",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "数据魔方-淘词",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://mofang.taobao.com/p/app/basic#f0:2015-09-10|min:09%3A30%3A15|cid:50020579|clevel:1|clevel1:50020579|bid:-1|pid:-1|rid:kw_searchword|prid:kw|sid:108681252|stype:B|slevel:12|rcid:taoci_index|r1:2015-09-10|r2:2015-09-10|tfix:200|dfix:1|tid:1|aid:521722577131|cpv:50026800-20000-8600966|query:%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "迅雷云试播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://vod.xunlei.com/play.html?uvs=_4_&url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Paid Focus Groups",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://www.paidfocusgroup.net/paid-focus-groups.html",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "AIAA",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://arc.aiaa.org/action/doSearch?searchText=hypersonic+inlets",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Download With Amule",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://ccys.no-ip.org:45880/scripts/DownloadWithAmule.py?ed2k=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "收录:google",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "https://www.google.com.hk/search?q=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "宅男云点播",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://vod.yktime.com/index.php#!u=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "奇爱网",
+    "T": "Custom",
+    "M": "LIN",
+    "U": "http://vod.7ibt.com/index.php?url=%s",
+    "L": "all",
+    "H": "这个是简介",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "QAthena QA工具平台",
+    "T": "all",
+    "M": "MEN",
+    "U": "http://qa.corp.qunar.com",
+    "L": "all",
+    "H": "QAthena是Qunar QA整合平台，是提供各种QA效率工具的入口和框架",
+    "K": "Qunar QA Team",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 35
+  },
+  {
+    "C": "onekey_change_price",
+    "T": "all",
+    "M": "MEN",
+    "U": "template/qatools_onekey_change_price.html?ocp=%s",
+    "L": "all",
+    "H": "在booking页面操作该菜单可跳转至变价操作界面",
+    "K": "筑梦者",
+    "R": [
+      "*://touch.qunar.com/*",
+      "*://fuwutouch1.beta.qunar.com/*",
+      "*://fuwutouch2.beta.qunar.com/*",
+      "*://fuwutouch3.beta.qunar.com/*",
+      "*://fuwutouch4.beta.qunar.com/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "机票beta环境Hosts配置",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/fuwu/getHosts",
+    "L": "all",
+    "H": "机票beta环境Hosts配置",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "一键部署beta环境",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/fuwu/getMapping",
+    "L": "all",
+    "H": "一键部署beta环境",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "系统拓扑图",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/zeus/#ajax/draw.html",
+    "L": "all",
+    "H": "系统拓扑图",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "Job搜索及占用管理",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/zeus/#ajax/occupying.html",
+    "L": "all",
+    "H": "Job搜索及占用管理",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "机票NG发布job列表",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightNg/queryQdrAddress",
+    "L": "all",
+    "H": "机票NG发布job列表",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "测试环境tomcat及端口号查询",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/fuwu/queryPort",
+    "L": "all",
+    "H": "测试环境tomcat及端口号查询",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "sysconf操作",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightnav/sysconf.jsp",
+    "L": "all",
+    "H": "sysconf操作",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "国内产品booking",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightnav/GNBooking.jsp",
+    "L": "all",
+    "H": "国内产品booking",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "国内机票reload工具",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightnav/toolLink.html",
+    "L": "all",
+    "H": "国内机票reload工具",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "沙盒环境问题定位",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightnav/toolCollection/toolCollection.html",
+    "L": "all",
+    "H": "沙盒环境问题定位",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "售后订单查看工具",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://l-qc2.f.beta.cn0.qunar.com:11111/index/",
+    "L": "all",
+    "H": "售后订单查看工具",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "环境变量管理",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/rebuild/list",
+    "L": "all",
+    "H": "环境变量管理",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "tomcat实例分配",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/fuwu/distributeInstance",
+    "L": "all",
+    "H": "tomcat实例分配",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "环境重构数据库修改",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/flightnav/envRebuildDB.html",
+    "L": "all",
+    "H": "环境重构数据库修改",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  },
+  {
+    "C": "beta nginx管理",
+    "T": "all",
+    "M": "POPUP",
+    "U": "http://qa.corp.qunar.com/ngConfig/editNginxPage",
+    "L": "all",
+    "H": "beta nginx管理",
+    "K": "筑梦者",
+    "R": [
+      "http://*/*",
+      "https://*/*",
+      "ftp://*/*",
+      "chrome://*/*"
+    ],
+    "V": 0
+  }
+]

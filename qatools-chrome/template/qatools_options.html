@@ -1,0 +1,416 @@
+<div class=page-header>
+    <h2><i class="glyphicon glyphicon-th-large"></i> <span translate>选项设置</span>
+        <small translate>各功能模块设置</small>
+    </h2>
+</div>
+<section class="fe-opt-content row">
+    <div class="left col-md-4">
+        <ul id=fe-opt-list-item>
+            <!--<li data-content="#opt_start" class="selected">桌面提醒</li>-->
+            <li data-content="#opt_jenkins">BDS&QDR插件</li>
+            <li data-content="#opt_userinfo">用户中心快捷登录插件配置</li>
+            <li data-content="#opt_pmoonekeybuild">PMO插件</li>
+            <li data-content="#opt_onekeychangeprice">一键变价插件</li>
+            <li data-content="#opt_json">JSON格式化工具</li>
+            <li data-content="#opt_fe_html">HTML检测</li>
+            <li data-content="#opt_fe_css">CSS检测</li>
+            <li data-content="#opt_fe_js">Javascript检测</li>
+            <li data-content="#opt_grid">栅格检测</li>
+            <li data-content="#opt_endecode">字符串编解码</li>
+            <li data-content="#opt_loadtime">统计网页加载耗时</li>
+            <li data-content="#opt_qrcode">二维码生成工具</li>
+            <li data-content="#opt_beautify">代码美化工具</li>
+            <li data-content="#opt_timestamp">时间(戳)转换工具</li>
+            <li data-content="#opt_regexp">正则表达式工具</li>
+        </ul>
+    </div>
+    <div class="right col-md-8">
+        <!-- 启动项 -->
+        <!--<div id="opt_start" class="selected">
+            <form action="#" id="opt_form_start">
+                <div class="title">桌面提醒配置&gt;&gt;</div>
+                <ul class="no-list-style">
+                    &lt;!&ndash;<li>
+                        <input type="checkbox" name="opt_item_contextMenus" id="opt_item_contextMenus"
+                               value="opt_item_contextMenus"/>
+                        <label for="opt_item_contextMenus">将“QaTools-QA助手”添加到右键菜单</label>
+                    </li>
+                    <li>
+                        <hr/>
+                    </li>&ndash;&gt;
+                    <li>
+                        <select name="opt_item_notification" id="opt_item_notification">
+                            <option value="3000">3秒</option>
+                            <option value="5000" selected>5秒</option>
+                            <option value="8000">8秒</option>
+                            <option value="10000">10秒</option>
+                            <option value="20000">20秒</option>
+                            <option value="30000">30秒</option>
+                        </select>
+                        <label for="opt_item_notification">设置桌面提醒的自动关闭时间</label>
+                    </li>
+                </ul>
+            </form>
+        </div>-->
+        <div id=opt_jenkins class="selected">
+            <form action="#" id=opt_form_jenkins>
+                <div class=title>BDS&QDR插件配置&gt;&gt;</div>
+                <ul class=no-list-style>
+                    <li>Passphrase:&nbsp;
+                        <input type="text" name="opt_item_passphrase" id="opt_item_passphrase" value=""/><br>
+
+                        <p>设置Passphrase后，在发布线上时，bds和qdr会显示方便的自动填充按钮，点击即可自动填充。</p>
+                    </li>
+                </ul>
+                <ul class=no-list-style>
+                    <li>功能简介:&nbsp;
+                        <br>
+
+                        <p>1.在BDS和QDR发布界面，OPS表单中的Passphrase可快捷操作填充；<br>
+                            2.在BDS和QDR发布界面，OPS表单中的tag_message可下拉选择常用的填充项，并伴有文字描述；<br>
+                            3.在BDS和QDR发布界面，均增加了右下角的快捷定位按钮，点击后屏幕可快速滚动至希望填写和关注的地方；<br>
+                            4.在BDS界面，发布历史上面提示“双击可发沙盒”可双击，可触发一键同步沙盒（code by jin.meng）；<br>
+                            5.在QDR的job首页，构建历史中对于delivery及room类型的job会自动渲染IN和Out参数出来，不用再点击进去看啦；
+                        </p>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <div id=opt_userinfo class=fe-hide>
+            <form action="#" id=opt_form_userinfo>
+                <div class=title>用户中心快捷登录插件配置&gt;&gt;</div>
+                <ul class=no-list-style>
+                    <li>用户中心账号:
+                        <table class="table table-hover table-bordered">
+                            <thead>
+                            <tr>
+                                <th class="center">默认</th>
+                                <th class="center">别名</th>
+                                <th class="center">账号</th>
+                                <th class="center">密码</th>
+                                <th></th>
+                            </tr>
+                            </thead>
+                            <tbody id="user_center_table_body">
+                            </tbody>
+                        </table>
+                        <button type="button" class="btn btn-primary btn-sml" id="add_user_center_account">添加账号</button>
+<!--
+                        <button class="btn btn-primary btn-sml" id="save_user_center_account">保存</button>
+-->
+                    </li>
+                    <li>
+                        <hr/>
+                    </li>
+                </ul>
+                <ul class=no-list-style>
+                    <li>功能简介:&nbsp;
+                        <br>
+
+                        <p>1.用户中心登录界面，登录按钮下方会出现设置好的快捷切换账号密码的按钮，方便各账号，各环境切换<br>
+                        </p>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <!-- HTML检测 -->
+        <div id="opt_fe_html" class="fe-hide">
+            <form action="" id="opt_form_html">
+                <div class="title">HTML检测完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">检测DOCTYPE是否符合标准</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在HTML5已经不支持的标签</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在对HTML5已经不支持的属性</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在有重复命名的ID</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在inline标签包含block标签</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在未闭合的HTML标签</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在&lt;head&gt;标签之外包含的link[rel=stylesheet]</label>
+                    </li>
+                    <li>
+                        <label for="">检测当前HTML文档是否经过压缩</label>
+                    </li>
+                    <li>
+                        <label for="">检测当前页面总共的DOM节点数</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在HTML注释、仅IE支持的HTML注释、FF不支持的HTML注释‘--’</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在使用了size属性的input标签</label>
+                    </li>
+                    <li>
+                        <label for="">检测&lthead&gt;标签中&lt;title&gt;标签的数量</label>
+                    </li>
+                    <li>
+                        <label for="">检测是否存在src为空的&lt;img&gt;标签</label>
+                    </li>
+                    <li>
+                        <label for="">DOM节点最大嵌套深度检测</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- CSS检测 -->
+        <div id="opt_fe_css" class="fe-hide">
+            <form action="" id="opt_form_css">
+                <div class="title">CSS检测完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">对所有&lt;style type="text/css"&gt;&lt;/style&gt;标签内的CSS进行检测，检测每个CSSRule的使用情况</label>
+                    </li>
+                    <li>
+                        <label for="">对所有&lt;link rel="stylesheet" href="*" /&gt;引入的CSS文件进行检测，检测每个CSSRule的使用情况</label>
+                    </li>
+                    <li>
+                        <label for="">检测所有&lt;link rel="stylesheet" href="*" /&gt;引入的CSS文件是否经过压缩</label>
+                    </li>
+                    <li>
+                        <label for="">检测CSS文件中总共引用的图片数量（建议CSS Sprites）</label>
+                    </li>
+                    <li>
+                        <label for="">检测CSS文件中是否存在expression</label>
+                    </li>
+                    <li>
+                        <label for="">对重复引入的CSS文件进行检测（包括路径相同和内容相同）</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+
+        <!-- JS检测 -->
+        <div id="opt_fe_js" class="fe-hide">
+            <form action="" id="opt_form_js">
+                <div class="title">Javascript检测完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">计算当前页面的cookie大小</label>
+                    </li>
+                    <li>
+                        <label for="">检测并管理当前页面所属域的有效cookie</label>
+                    </li>
+                    <li>
+                        <label for="">对所有&lt;script&gt;标签进行检测，统计标签数量</label>
+                    </li>
+                    <li>
+                        <label for="">检测通过&lt;script src="*"&gt;&lt;/script&gt;引入的Javascript文件是否经过压缩</label>
+                    </li>
+                    <li>
+                        <label for="">检测tangram文件的个数、版本</label>
+                    </li>
+                    <li>
+                        <label for="">对重复引入的JS文件进行检测（包括路径相同和内容相同）</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+
+        <!-- 栅格检测 -->
+        <div id="opt_grid" class="fe-hide">
+            <form action="" id="opt_form_grd">
+                <div class="title">栅格检测完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">在页面顶部和左侧显示标尺</label>
+                    </li>
+                    <li>
+                        <label for="">在页面显示辅助参考线</label>
+                    </li>
+                    <li>
+                        <label for="">显示鼠标当前位置坐标</label>
+                    </li>
+                    <li>
+                        <label for="">在页面显示栅格，辅助FE进行栅格检测</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- 字符串编解码-->
+        <div id="opt_endecode" class="fe-hide">
+            <form action="" id="opt_form_endecode">
+                <div class="title">字符串编解码工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">对字符串进行Unicode编码</label>
+                    </li>
+                    <li>
+                        <label for="">对字符串进行UTF-8编解码</label>
+                    </li>
+                    <li>
+                        <label for="">对字符串进行Base64编解码</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- 统计网页加载耗时 -->
+        <div id="opt_loadtime" class="fe-hide">
+            <form action="" id="opt_form_loadtime">
+                <div class="title">统计网页加载耗时工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">统计DNS解析的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计建立连接的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计Request的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计Response的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计内容加载的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计DOM解析的耗时</label>
+                    </li>
+                    <li>
+                        <label for="">统计事件绑定的耗时</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+
+        <!-- 二维码-->
+        <div id="opt_qrcode" class="fe-hide">
+            <form action="" id="opt_form_qrcode">
+                <div class="title">二维码生成工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">对普通网址生成二维码</label>
+                    </li>
+                    <li>
+                        <label for="">对文本串生成二维码</label>
+                    </li>
+                    <li>
+                        <label for="">对通讯录生成二维码</label>
+                    </li>
+                    <li>
+                        <label for="">对电话号码生成二维码</label>
+                    </li>
+                    <li>
+                        <label for="">对短信、彩信生成二维码</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- JSON-->
+        <div id="opt_json" class="fe-hide">
+            <form action="" id="opt_form_json">
+                <div class="title">JSON格式化工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">页面内容自动JSON格式化查看</label>
+                    </li>
+                    <li>
+                        <label for="">JSON代码格式化工具</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- code-->
+        <div id="opt_beautify" class="fe-hide">
+            <form action="" id="opt_form_beautify">
+                <div class="title">代码美化工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">对Javascript代码进行美化并高亮显示</label>
+                    </li>
+                    <li>
+                        <label for="">对CSS代码进行美化并高亮显示</label>
+                    </li>
+                    <li>
+                        <label for="">对HTML代码进行美化并高亮显示</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- code-->
+        <div id="opt_timestamp" class="fe-hide">
+            <form action="" id="">
+                <div class="title">时间戳转换工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">时间到时间戳的转换</label>
+                    </li>
+                    <li>
+                        <label for="">时间戳到时间的转换</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!-- code-->
+        <div id="opt_regexp" class="fe-hide">
+            <form action="" id="zhengzebiaodashigongju">
+                <div class="title">正则表达式工具完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">正则表达式的及时测试</label>
+                    </li>
+                    <li>
+                        <label for="">常用正则表达式的汇总</label>
+                    </li>
+                    <li>
+                        <label for="">匹配结果的高亮显示</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <!--PMO插件-->
+        <div id="opt_pmoonekeybuild" class="fe-hide">
+            <form action="" id="opt_pmoonekeybuild_form">
+                <div class="title">PMO插件完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">在PMO界面，根据提测代码自动获取并显示相应job</label>
+                    </li>
+                    <li>
+                        <label for="">可操作一键部署</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <!--一键变价插件-->
+        <div id="opt_onekeychangeprice" class="fe-hide">
+            <form action="" id="opt_onekeychangeprice_form">
+                <div class="title">一键变价插件完成如下功能&gt;&gt;</div>
+                <ul>
+                    <li>
+                        <label for="">在booking页面，右击页面可出现快捷菜单，找到“操作变价”菜单</label>
+                    </li>
+                    <li>
+                        <label for="">根据bookingurl，可自动解析并得到修改地址</label>
+                    </li>
+                    <li>
+                        <label for="">目前仅支持touch端的国内报价</label>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+    </div>
+</section>
